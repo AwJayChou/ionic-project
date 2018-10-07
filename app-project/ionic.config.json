@@ -1,0 +1,10 @@
+{
+  "name": "ionic2-app-base",
+  "integrations": {},
+  "type": "ionic-angular",
+  "proxies":[{
+    "path":"/",
+    "proxyUrl":"http://127.0.0.1:3000/"
+  }
+  ]
+}
